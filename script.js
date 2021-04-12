@@ -1,7 +1,7 @@
 const form = document.querySelector('.form');
 const password = document.querySelector('#password');
 const login = document.querySelector('#email');
-const URL = 'http://test.kluatr.ru/api/user/';
+const URL = 'https://test.kluatr.ru/api/user/';
 const wrapper = document.querySelector('.wrapper');
 
 const auth = async (evt) => {
